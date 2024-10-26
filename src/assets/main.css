@@ -7,6 +7,10 @@
   color: #d6d6d6;
 }
 
+body{
+  background-color: #181818;
+}
+
 a,
 .green {
   text-decoration: none;
